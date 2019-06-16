@@ -8,6 +8,7 @@ body {
   color: #777777;
   background: url("../images/dots.jpg");
   display: block;
+  text-decoration: none;
 
 }
 
@@ -26,7 +27,10 @@ body {
   
 
 }
-  
+  label{
+    text-decoration: none;
+    text-decoration-style: none;
+  }
 .container {
   width: 100%;
   max-width: 960px;
